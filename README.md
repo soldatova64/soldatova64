@@ -2,7 +2,7 @@
 
 Я начинающий Go-разработчик. Нахожусь в самом начале своей IT-карьеры.
 
-## :books: Технологии и инструемнты 
+## :books: Технологии и инструемнты ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 - Основы языка Go;
 - HTTP/REST API;
 - SQL и базы данных;
