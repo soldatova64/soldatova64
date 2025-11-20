@@ -19,3 +19,6 @@
 ## :ledger: Контакты
 - Telegram: @soldatovadev
 - Email: anna.glabova1995@yandex.ru
+
+  
+<!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soldatova64&show_icons=true&theme=radical)-->
