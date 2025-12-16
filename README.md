@@ -10,7 +10,7 @@
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  	![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/postman-FCC624?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-%232671E5.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
-## :collision: :collision: :collision:  мой веб сайт [d-cost.ru](http://d-cost.ru/) :collision: :collision: :collision: 
+## :collision:  сервис по подсчету стоимости вещи во времени [d-cost.ru](http://d-cost.ru/) 
 ## :video_game: В свободное время
 - активно занимаюсь спортом, играю в волейбол, участвую в соревнованиях и имею награды. Есть золотая ачивка по нормам ГТО;
 - с использованием современных технологий профессионально пеку кондитерские изделия;
